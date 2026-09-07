@@ -1,19 +1,18 @@
 # Codex 中文指南
 
-面向中文用户的 Codex 教程与动态合集：安装、教程、插件、版本更新。内容整理自 Codex 中文站官网。
+## Codex介绍
 
-**官方持续更新入口：[Codex中文站 官网](https://www.sz003.com/)** —— 完整教程与最新文章以官网为准，本仓库为定期同步的中文内容镜像。
+Codex 是 OpenAI 推出的 AI 编程智能体，包含 Codex CLI 终端工具、Codex 云端智能体和 IDE 插件三种形态。Codex CLI 是开源的轻量级命令行编码助手，在本地终端运行，支持通过自然语言指令生成和修改代码、执行任务、创建文件和调用脚本。Codex 接入 GPT-5-Codex 模型，专为真实软件工程任务优化，能够独立完成从零搭建项目、添加功能与测试、调试修复、大规模重构和代码审查等工作，支持多模态输入，可处理文本、截图和图表。Codex 已集成 GitHub，支持从终端、IDE、网页和 iOS 应用多端协作，实现实时配对编程与异步任务委派的无缝切换。
 
-## 仓库简介
+## Codex特点
 
-本仓库把 Codex中文站 上「Codex 中文指南」主题的公开文章收拢为 Markdown 合集：每篇文档顶部与文末都保留了官网原文链接，可在线阅读，也可以 `git clone` 到本地，用于检索、离线阅读或交给 AI 工具做学习总结。
+- 终端原生运行，轻量高效，零配置开箱即用。
+- GPT-5-Codex 模型驱动，专为编程任务深度优化。
+- 支持从零搭建项目、重构、测试、代码审查全流程。
+- 多模态输入，支持文本、截图、图表理解。
+- 深度集成 GitHub，终端/IDE/网页/iOS 多端协作。
 
-## 目录结构
-
-- `docs/` — 教程与使用指南（7 篇）：安装、上手、场景实战、答疑。
-- `changelog/` — 版本动态与资讯（8 篇）：按发布时间倒序排列。
-
-## 教程与指南
+## Codex教程与指南
 
 - [Codex Token 消耗太快？改 4 个设置，能省下 80%](https://www.sz003.com/jiaocheng/2617) · [📄 仓库内阅读](docs/2617-CodexToken消耗太快？改4个设置，能省下80%.md)
 - [Codex 和 DeepSeek harness 怎么选](https://www.sz003.com/jiaocheng/2614) · [📄 仓库内阅读](docs/2614-Codex和DeepSeekharness怎么选.md)
@@ -23,7 +22,7 @@
 - [给Codex装一套学术研究技能：9.2k星开源套件，文献综述论文评审全包了](https://www.sz003.com/chajian/2558) · [📄 仓库内阅读](docs/2558-给Codex装一套学术研究技能：9.2k星开源套件，文献综述论文评审全包了.md)
 - [Codex CLI怎么安装？四种官方安装方式保姆级教程，Windows用户别再只装npm了](https://www.sz003.com/jiaocheng/2556) · [📄 仓库内阅读](docs/2556-CodexCLI怎么安装？四种官方安装方式保姆级教程，Windows用户别再只装.md)
 
-## 版本动态
+## Codex版本动态
 
 - 2026-09-05 · [CC Switch v3.19.0：代理读图不再撑爆 Codex 上下文，密钥泄漏自动清洗](https://www.sz003.com/ccswitchdt/2613) · [📄 仓库内阅读](changelog/2613-CCSwitchv3.19.0：代理读图不再撑爆Codex上下文，密钥泄漏自动清.md)
 - 2026-09-04 · [CC Switch v3.19.1：DeepSeek 火山混元在 Codex 里直连，切回官方不再卡 401](https://www.sz003.com/ccswitchdt/2612) · [📄 仓库内阅读](changelog/2612-CCSwitchv3.19.1：DeepSeek火山混元在Codex里直连，切回.md)
@@ -35,5 +34,7 @@
 - 2026-08-25 · [Codex 0.149.1正式版发布：贴图的会话不再越滚越沉，exec还能打线程标签](https://www.sz003.com/codexdt/2553) · [📄 仓库内阅读](changelog/2553-Codex0.149.1正式版发布：贴图的会话不再越滚越沉，exec还能打线程标.md)
 
 ---
+
+**官方持续更新入口：[Codex中文站 官网](https://www.sz003.com/)**
 
 © [Codex中文站](https://www.sz003.com/) · 本仓库为官网内容镜像，文章版权归原作者所有。
