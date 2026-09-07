@@ -2,11 +2,18 @@
 
 面向中文用户的 Codex 教程与动态合集：安装、教程、插件、版本更新。内容整理自 Codex 中文站官网。
 
-**完整教程与持续更新见官网：[Codex中文站](https://www.sz003.com/)**
+**官方持续更新入口：[Codex中文站 官网](https://www.sz003.com/)** —— 完整教程与最新文章以官网为准，本仓库为定期同步的中文内容镜像。
 
-> 本文档仓库共收录 **15 篇**（教程 7 篇 / 版本动态 8 篇），内容自动同步自 [Codex中文站](https://www.sz003.com/)。
+## 仓库简介
 
-## 教程指南
+本仓库把 Codex中文站 上「Codex 中文指南」主题的公开文章收拢为 Markdown 合集：每篇文档顶部与文末都保留了官网原文链接，可在线阅读，也可以 `git clone` 到本地，用于检索、离线阅读或交给 AI 工具做学习总结。
+
+## 目录结构
+
+- `docs/` — 教程与使用指南（7 篇）：安装、上手、场景实战、答疑。
+- `changelog/` — 版本动态与资讯（8 篇）：按发布时间倒序排列。
+
+## 教程与指南
 
 - [Codex Token 消耗太快？改 4 个设置，能省下 80%](https://www.sz003.com/jiaocheng/2617) · [📄 仓库内阅读](docs/2617-CodexToken消耗太快？改4个设置，能省下80%.md)
 - [Codex 和 DeepSeek harness 怎么选](https://www.sz003.com/jiaocheng/2614) · [📄 仓库内阅读](docs/2614-Codex和DeepSeekharness怎么选.md)
