@@ -39,6 +39,6 @@ Codex 是 OpenAI 推出的 AI 编程智能体，包含 Codex CLI 终端工具、
 
 ---
 
-**官方持续更新入口：[Codex中文站 官网](https://www.sz003.com/)**
+**官方持续更新入口：[Codex](https://www.sz003.com/)**
 
 © [Codex中文站](https://www.sz003.com/) · 本仓库为官网内容镜像，文章版权归原作者所有。
